@@ -1,6 +1,5 @@
 # Predicting-Telecom-Churn-A-Machine-Learning-Approach-to-Retain-Customers
 
-# CA-Projects-template-submission-repo
 *Telecom Churn Prediction is a machine learning project that aims to predict customer churn in the telecom industry. Churn prediction is important for telecom companies because it helps them to retain their customers and reduce customer acquisition costs. The figure below depicts the description of the dataset importation and screenshot of same.*
 
 ## Summary
