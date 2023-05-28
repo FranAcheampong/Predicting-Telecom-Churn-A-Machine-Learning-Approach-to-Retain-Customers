@@ -5,7 +5,7 @@
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP3 | Predicting-Telecom-Churn-Prediction |  [Read the Article](https://medium.com/@acheampongfrancis95/predicting-telecom-churn-a-machine-learning-approach-to-retain-customers-5b43e60b11e6) | [Check the visuals on PowerBI](https://app.powerbi.com/groups/me/reports/3114c4fa-c8d8-46d8-98d3-102b0cadf47b/ReportSection) |
+| LP2 | Predicting-Telecom-Churn-Prediction |  [Read the Article](https://medium.com/@acheampongfrancis95/predicting-telecom-churn-a-machine-learning-approach-to-retain-customers-5b43e60b11e6) | [Check the visuals on PowerBI](https://app.powerbi.com/groups/me/reports/3114c4fa-c8d8-46d8-98d3-102b0cadf47b/ReportSection) |
 
 ## Project Description
 Churn is a one of the biggest problems in the telecom industry. Research has shown that the average monthly churn rate among the top 4 wireless carriers in the US is 1.9% - 2%.
